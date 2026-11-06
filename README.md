@@ -1,17 +1,69 @@
-# flutter_proj
+# 📱 Flutter Feed App
 
-A new Flutter project.
+A simple mobile feed application built with Flutter as a hands-on project to explore Flutter fundamentals and widget composition.
 
-## Getting Started
+The app displays a collection of posts using reusable cards, including images and basic social media interactions.
 
-This project is a starting point for a Flutter application.
+Users can:
+- 📰 Browse a feed of posts
+- 🖼️ View images within individual post cards
+- ❤️ Like posts and see the like counter update dynamically
+- 📱 Navigate through a scrollable feed with a clean mobile UI
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🚀 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ✅ Dynamic feed rendering
+- ✅ Reusable widgets and component composition
+- ✅ Interactive like button
+- ✅ Real-time like counter updates using `setState`
+- ✅ Scrollable layout using Flutter widgets
+- ✅ Image rendering within post cards
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Material Design
+- StatefulWidget & StatelessWidget
+- setState (State Management)
+
+---
+
+## 🧪 Installation & Running Locally
+
+1. Clone the repository
+
+   ```bash
+   git clone https://github.com/brandoneck/flutterFeed.git
+   ```
+
+2. Navigate to the project directory
+
+   ```bash
+   cd flutterFeed
+   ```
+
+3. Install dependencies
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the app
+
+   ```bash
+   flutter run
+   ```
+
+---
+
+## ✨ About the Author
+
+👋 Hi! I'm Brandon, a frontend developer passionate about building clean, intuitive applications.  
+🎸 I also play guitar with my band and love mixing tech with creativity.  
+📬 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/brandonlr/)  
+📁 Explore more of my work on [GitHub](https://github.com/brandoneck).
